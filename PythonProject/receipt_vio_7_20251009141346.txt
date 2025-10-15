@@ -1,0 +1,19 @@
+
+        ================================================
+              VIO SENSE - OFFICIAL PAYMENT RECEIPT
+        ================================================
+
+        Receipt Date: 2025-10-09 14:13:46
+        Vehicle Plate: LAM 5353
+
+        Violation ID: 7
+        Amount Paid:  $5000.00
+        Status:       PAID IN FULL
+
+        Payment Method: Credit Card
+        Card/Ref:       3333
+
+        Thank you for settling your violation.
+
+        ================================================
+        

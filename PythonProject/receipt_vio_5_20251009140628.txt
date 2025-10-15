@@ -1,0 +1,18 @@
+
+        ================================================
+              VIO SENSE - OFFICIAL PAYMENT RECEIPT
+        ================================================
+
+        Receipt Date: 2025-10-09 14:06:28
+
+        Violation ID: 5
+        Amount Paid:  $3000.00
+        Status:       PAID IN FULL
+
+        Payment Method: Online Transfer
+        Card/Ref:       3333
+
+        Thank you for settling your violation.
+
+        ================================================
+        

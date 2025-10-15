@@ -1,0 +1,11 @@
+{
+    "patients": [
+        {
+            "name": "Leo Quintana",
+            "age": "78",
+            "contact": "09557961373",
+            "type": "Senior"
+        }
+    ],
+    "appointments": []
+}

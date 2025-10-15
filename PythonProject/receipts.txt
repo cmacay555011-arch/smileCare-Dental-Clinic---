@@ -1,0 +1,143 @@
+===== Dental Clinic & Services Receipt =====
+
+- Dental Cleaning : ₱500
+
+Discount: ₱0.00
+Total Amount: ₱500.00
+Payment Method: GCash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+- Dental Cleaning : ₱500
+
+Discount: ₱0.00
+Total Amount: ₱500.00
+Payment Method: Credit/Debit Card
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+- Tooth Extraction : ₱1000
+- Whitening : ₱1200
+
+Discount: ₱0.00
+Total Amount: ₱2200.00
+Payment Method: Cash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+- Dental Cleaning : ₱500
+- Tooth Extraction : ₱1000
+
+Discount: ₱0.00
+Total Amount: ₱1500.00
+Payment Method: GCash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+Patient: Jayne Quintana
+Appointment ID: 1
+Date: 2025-10-07 | Time Slot: Afternoon
+
+- Dental Cleaning : ₱500
+- Tooth Extraction : ₱1000
+
+Discount: ₱0.00
+Total Amount: ₱1500.00
+Payment Method: Cash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+Patient: Christian Macay
+Appointment ID: 2
+Date: 2025-10-07 | Time Slot: Afternoon
+
+- Dental Cleaning : ₱500
+- Tooth Extraction : ₱1000
+
+Discount: ₱0.00
+Total Amount: ₱1500.00
+Payment Method: Cash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+Patient: John Paril
+Appointment ID: 3
+Date: 2025-10-07 | Time Slot: Evening
+
+- Dental Cleaning : ₱500
+- Tooth Extraction : ₱1000
+- Braces Consultation : ₱700
+
+Discount: ₱0.00
+Total Amount: ₱2200.00
+Payment Method: GCash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+Patient: Arthurt Mamamug
+Appointment ID: 4
+Date: 2025-10-07 | Time Slot: Morning
+
+- Dental Cleaning : ₱500
+- Tooth Extraction : ₱1000
+- Braces Consultation : ₱700
+
+Discount: ₱0.00
+Total Amount: ₱2200.00
+Payment Method: Cash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+Patient: SDASDAS
+Appointment ID: 5
+Date: 2025-10-07 | Time Slot: Afternoon
+
+- Dental Cleaning : ₱500
+- Tooth Extraction : ₱1000
+
+Discount (20%): ₱300.00
+Total Amount: ₱1200.00
+Payment Method: Cash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
+===== Dental Clinic & Services Receipt =====
+
+Patient: Christian Macay
+Appointment ID: 6
+Date: 2025-10-07 | Time Slot: Morning
+
+- Dental Cleaning : ₱500
+
+Discount (20%): ₱100.00
+Total Amount: ₱400.00
+Payment Method: Cash
+
+Thank you for trusting Dental Clinic & Services! 🦷
+==========================================
+
